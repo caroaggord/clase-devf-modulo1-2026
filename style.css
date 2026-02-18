@@ -1,0 +1,15 @@
+h1{
+background: linear-gradient(to right, #ff6ec4, #7873f5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+text-align: center;
+background-color: grey;
+} /*este es un comentario, no se muestra en la página web*/
+footer{
+    color: white;
+    background-color: olive;
+}
+
+footer p {
+    text-align: center;
+}
