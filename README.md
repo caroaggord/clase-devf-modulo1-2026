@@ -1,5 +1,5 @@
 Carolina Aguilar 👩🏻‍💻  
-##Web Developer in Progress | Cybersecurity Enthusiast
+Web Developer in Progress | Cybersecurity Enthusiast
 
 Este repositorio contiene mi primera página web personal, desarrollada como parte de mi formación en Desarrollo Web en Devf.  
 
